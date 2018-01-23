@@ -2,4 +2,4 @@
 
 ls /drone;
 
-echo test;
+echo plopupdate;
