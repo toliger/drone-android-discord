@@ -1,4 +1,4 @@
-FROM ubuntu
+FROM alpine:latest
 
 ADD app/build.sh /bin/build.sh
 
