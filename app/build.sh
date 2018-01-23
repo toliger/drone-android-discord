@@ -1,3 +1,3 @@
 #!/bin/sh
 
-ls / && echo test;
+ls /drone && echo test;

@@ -1,0 +1,11 @@
+branches:
+  include:
+    - master
+    - dev
+
+pipeline:
+  build:
+    image: plugins/docker
+    dockerfile: Dockerfile
+    repo: toliger/drone-android-discord
+    tags: latest
