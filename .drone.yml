@@ -7,5 +7,5 @@ pipeline:
   build:
     image: plugins/docker
     dockerfile: Dockerfile
-    repo: toliger/drone-android-discord
+    repo: oligertimothee/drone-android-discord
     tags: latest
