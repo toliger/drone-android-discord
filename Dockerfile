@@ -1,4 +1,4 @@
 FROM ubuntu
 
 
-ENTRYPOINT ls /
+ENTRYPOINT /bin/build.sh
