@@ -1,3 +1,4 @@
 FROM ubuntu
 
-RUN ls /
+
+ENTRYPOINT ls /
